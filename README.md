@@ -5,8 +5,8 @@
 *NOTE: This is a template for developers to fork and customise rather than a plug-in and play project* 
 
 Below is an example of how terrain can possibly look 
+![map 10](https://github.com/Sujan-Naik/Minecraft-World-Generation/assets/125016948/b284d250-db96-4ae8-ba50-32a91361f75d)
 
-![map 10](https://github.com/Sujan-Naik/Minecraft-World-Generation/assets/125016948/6179db7d-dfdd-4281-affc-d096ffc3ab2a)
 
 ## Features
 > Intuitive and complex terrain generation
@@ -19,6 +19,11 @@ Below is an example of how terrain can possibly look
 
 > Biome Specific World generation
 - Generation of trees
+  - These can be vanilla Minecraft
+  - Or custom trees I have generated with fractals (size and complexity can be modified) :
+![cherry](https://github.com/Sujan-Naik/Minecraft-World-Generation/assets/125016948/691f01ed-f415-413f-a0ac-80412f2a2ffd)
+![Acacia tree](https://github.com/Sujan-Naik/Minecraft-World-Generation/assets/125016948/00544058-15ef-4059-9201-a2508d35e114)
+
 - Generation of layers of the world
 - Generation of flora and vegetation
 - Small features contained to a chunk (for instance a rock)
@@ -67,8 +72,7 @@ Chunks are built entirely by iterating through each block and placing blocks at 
 
 Once the noise functions are computed and biomes delegated, blocks are placed and then BlockPopulators are used for trees etc (https://hub.spigotmc.org/javadocs/spigot/org/bukkit/generator/BlockPopulator.html).
 
-### How to create structures with WorldEdit schematics
-< In Progress > 
+
 
 
 
