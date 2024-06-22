@@ -22,7 +22,9 @@ Below is an example of how terrain can possibly look
   - These can be vanilla Minecraft
   - Or custom trees I have generated with fractals (size and complexity can be modified) :
 ![cherry](https://github.com/Sujan-Naik/Minecraft-World-Generation/assets/125016948/691f01ed-f415-413f-a0ac-80412f2a2ffd)
+
 ![Acacia tree](https://github.com/Sujan-Naik/Minecraft-World-Generation/assets/125016948/00544058-15ef-4059-9201-a2508d35e114)
+
 
 - Generation of layers of the world
 - Generation of flora and vegetation
