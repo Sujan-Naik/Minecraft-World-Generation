@@ -29,7 +29,9 @@ Below is an example of how terrain can possibly look
 - Generation of trees
   - These can be vanilla Minecraft
   - Or custom trees I have generated with fractals (size and complexity can be modified).
-  Below are 2 out of the 7 default ones.
+  - Below are 2 out of the 7 default ones.
+
+
 ![cherry](https://github.com/Sujan-Naik/Minecraft-World-Generation/assets/125016948/691f01ed-f415-413f-a0ac-80412f2a2ffd)
 
 ![Acacia tree](https://github.com/Sujan-Naik/Minecraft-World-Generation/assets/125016948/00544058-15ef-4059-9201-a2508d35e114)
@@ -38,7 +40,8 @@ Below is an example of how terrain can possibly look
 - Generation of layers of the world
 - Generation of flora and vegetation
 - Small features contained to a chunk (for instance a rock)
-- Larger schematics using the WorldEdit API can also be placed throughout the world, below are some ideas
+- Larger schematics using the WorldEdit API can also be placed throughout the world
+- (this can be done by listening to the ChunkLoadEvent) below are some ideas
   - This could be used to create custom villages for instance
   - Floating sky islands
   - Castles
