@@ -2,7 +2,15 @@
 
 **A procedural Voxel World generation Minecraft Plugin** 
 
+This is a stripped-down bare bones version of one intended for my Minecraft server (see https://github.com/SereneOasisMC/SereneWorldGen) 
+
 *NOTE: This is a template for developers to fork and customise rather than a plug-in and play project* 
+
+## How to use ?
+1) Install a world management plugin, i.e. [Multiverse core](https://www.spigotmc.org/resources/multiverse-core.390/)
+2) Generate a new world with `/mvcreate <world name> NORMAL -g SereneWorldGen`
+3) Teleport to the world using `/mvtp <player name> <world name>`
+
 
 Below is an example of how terrain can possibly look 
 ![map 10](https://github.com/Sujan-Naik/Minecraft-World-Generation/assets/125016948/b284d250-db96-4ae8-ba50-32a91361f75d)
